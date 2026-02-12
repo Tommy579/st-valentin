@@ -42,6 +42,7 @@ yesBtn.addEventListener('click', () => {
   document.body.innerHTML = `
         <div class="container">
             <h1 class="success-message">j'en étais sûr tu m'aimes trop 🥰</h1>
+            <h2 class="success-message">moi aussi un peu en vrai</h2>
             <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXdkZzI2aGd4ZzFqdHl3dHNhdGkxNm9zcXhqNjhtZGRvdnZzaDhjcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qFmdpUKAFZ6rMobzzu/giphy.gif" alt="Success Gif" style="width: 300px; border-radius: 15px;">
         </div>
     `;
