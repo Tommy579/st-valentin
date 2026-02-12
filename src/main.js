@@ -6,7 +6,6 @@ const gif = document.getElementById('gif');
 // Textes drôles qui s'affichent sur le bouton NON quand on clique dessus
 const noTexts = [
   "t'es sûre ?",
-  "vraiment ?",
   "vas-y frr",
   "nan mais pitié",
   "stppp",
