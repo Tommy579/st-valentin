@@ -7,14 +7,16 @@ const gif = document.getElementById('gif');
 const noTexts = [
   "t'es sûre ?",
   "vraiment ?",
-  "pense-y bien...",
-  "dernière chance 🥺",
+  "vas-y frr",
+  "nan mais pitié",
   "stppp",
-  "allez...",
-  "je vais être triste...",
-  "très très triste...",
-  "bon j'arrête",
+  "t'abuses de ouf",
+  "je vais être triste",
+  "super super triste",
+  "bon tu forces là",
   "MAIS ALLEZ DIS OUI PTN️"
+  "jv canner tu veux même pas un peu"
+  "même pas un poco loco ?"
 ];
 
 let noCount = 0;
