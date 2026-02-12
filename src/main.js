@@ -33,7 +33,7 @@ noBtn.addEventListener('click', () => {
   noCount++;
 
   // Faire grossir le bouton Oui
-  yesSize *= 1.3; // Augmente la taille de 30% à chaque clic
+  yesSize *= 1.2; // Augmente la taille de 30% à chaque clic
   yesBtn.style.fontSize = `${yesSize}rem`;
   yesBtn.style.padding = `${yesSize * 15}px ${yesSize * 30}px`;
 });
