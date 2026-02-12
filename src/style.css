@@ -1,0 +1,64 @@
+body {
+    background-color: #ffe6e9; /* Fond rose clair */
+    font-family: 'Nunito', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    overflow: hidden; /* Empêche le scroll quand le bouton devient géant */
+    text-align: center;
+}
+
+.container {
+    position: relative;
+}
+
+h1 {
+    color: #ff4d6d;
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+.gif-container img {
+    width: 200px;
+    height: auto;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+button {
+    font-family: 'Nunito', sans-serif;
+    border: none;
+    border-radius: 10px;
+    padding: 15px 30px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    font-weight: bold;
+    transition: all 0.3s ease;
+}
+
+#yesBtn {
+    background-color: #2ecc71; /* Vert */
+    color: white;
+}
+
+#noBtn {
+    background-color: #ff4d6d; /* Rouge/Rose */
+    color: white;
+}
+
+/* Design de la page finale */
+.success-message {
+    font-size: 3rem;
+    color: #ff4d6d;
+    font-weight: bold;
+}
