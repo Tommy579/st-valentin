@@ -13,8 +13,8 @@ const noTexts = [
   "je vais être triste",
   "super super triste",
   "bon tu forces là",
-  "MAIS ALLEZ DIS OUI PTN️"
-  "jv canner tu veux même pas un peu"
+  "MAIS ALLEZ DIS OUI PTN️",
+  "jv canner tu veux même pas un peu",
   "même pas un poco loco ?"
 ];
 
